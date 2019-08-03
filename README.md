@@ -2,7 +2,7 @@
 
 Must have fixes from different pull requests to the original repository
 
-Tested to work with three 0.107.0
+Tested to work with three.js@0.107.0
 
 # three-effectcomposer #
 
