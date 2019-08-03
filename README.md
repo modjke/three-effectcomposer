@@ -1,3 +1,9 @@
+# About this fork #
+
+Must have fixes from different pull requests to the original repository
+
+Tested to work with three 0.107.0
+
 # three-effectcomposer #
 
 Browserify-friendly version of `THREE.EffectComposer`, which offers a quick
